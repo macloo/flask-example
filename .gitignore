@@ -12,6 +12,11 @@ Thumbs.db
 
 # folders to be ignored
 env/
+__pycache__/
 
 # Excel files
 *.xlsx
+
+# lesson files
+student.html
+students_3.py
