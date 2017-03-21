@@ -16,7 +16,3 @@ __pycache__/
 
 # Excel files
 *.xlsx
-
-# lesson files
-templates/student.html
-students_3.py
