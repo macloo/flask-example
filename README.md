@@ -1,6 +1,6 @@
 # Flask Example files
 
-This small repo is incomplete and intended for use in a hands-on tutorial.
+This small repo is incomplete and intended for use in a [hands-on tutorial](http://bit.ly/mm-flask2-slides).
 
 It is assumed that you:
 
