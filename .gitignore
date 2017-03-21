@@ -14,4 +14,4 @@ Thumbs.db
 env/
 
 # Excel files
-.xlsx
+*.xlsx
