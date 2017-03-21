@@ -18,5 +18,5 @@ __pycache__/
 *.xlsx
 
 # lesson files
-student.html
+templates/student.html
 students_3.py
